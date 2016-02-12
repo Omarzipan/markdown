@@ -1,3 +1,5 @@
+Hi user,
+
 It looks like there are 2 things going on here:
 
 You're sending requests to the production server at api.plaid.com - test credentials won't work here. The development server where test credentials can be used is tartan.plaid.com .
