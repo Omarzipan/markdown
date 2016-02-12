@@ -25,5 +25,5 @@ Also note that because you're using Chase instead of Well Fargo, you'll receive 
 
 Feel free to ask if you have any further questions.
 
-Best, 
+Best,
 Omar
