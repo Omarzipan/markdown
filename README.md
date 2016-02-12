@@ -28,3 +28,16 @@ Feel free to ask if you have any further questions.
 Best,
 
 Omar
+
+Hi user,
+
+It looks like you're trying to use an unsupported product for an institution. Not all all institutions support all products. In this case, American Express is not supported by Auth. To see a list of institutions and the products that they support, you can issue the following request:
+
+```
+curl https://tartan.plaid.com/institutions
+```
+
+Additionally, in the future it would be helpful if you could supply the Plaid error code (it should be alongside the HTTP status code returned) alongside any support request. It usually gives more context to what went wrong.
+
+Best,
+Omar
