@@ -31,7 +31,7 @@ Omar
 
 Hi user,
 
-It looks like you're trying to use an unsupported product for an institution. Not all all institutions support all products. In this case, American Express is not supported by Auth. To see a list of institutions and the products that they support, you can issue the following request:
+It looks like you're trying to use an unsupported product for an institution. Not all all institutions support all products. In this case, American Express does not support Auth. To see a list of institutions and the products that they support, you can issue the following request:
 
 ```
 curl https://tartan.plaid.com/institutions
