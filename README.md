@@ -2,7 +2,7 @@ Hi user,
 
 It looks like there are 2 things going on here:
 
-You're sending requests to the production server at [api.plaid.com](api.plaid.com) - test credentials won't work here. The development server where test credentials can be used is [tartan.plaid.com](tartan.plaid.com) .
+You're sending requests to the production server at [api.plaid.com](https://api.plaid.com) - test credentials won't work here. The development server where test credentials can be used is [tartan.plaid.com](https://tartan.plaid.com) .
 You're issuing a GET request (with the -G) rather than a POST request with your curl.
 Try this snippet instead:
 ```
